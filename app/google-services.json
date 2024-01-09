@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "6811281334",
+    "firebase_url": "https://online-voting-82116-default-rtdb.firebaseio.com",
+    "project_id": "online-voting-82116",
+    "storage_bucket": "online-voting-82116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6811281334:android:f17f905bafb6987b448317",
+        "android_client_info": {
+          "package_name": "com.onlie.voting.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPAHAnm-FWHZJ4SM54sqFjuW7aWYc4lUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
